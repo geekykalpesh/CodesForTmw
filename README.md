@@ -4,8 +4,11 @@
 [![Vite](https://img.shields.io/badge/Vite-7-646CFF.svg)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-4-38B2AC.svg)](https://tailwindcss.com/)
 [![Redux](https://img.shields.io/badge/Redux-Toolkit-764ABC.svg)](https://redux-toolkit.js.org/)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?logo=vercel)](https://codes-for-tmw.vercel.app/)
 
 A premium, pixel-perfect React application that serves as a news aggregator with built-in feedback capabilities. Built with speed, aesthetics, and clean code principles in mind.
+
+**🔗 [Live Demo](https://codes-for-tmw.vercel.app/)**
 
 ![Project Preview](public/preview.png)
 
