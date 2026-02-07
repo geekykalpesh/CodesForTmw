@@ -7,6 +7,8 @@
 
 A premium, pixel-perfect React application that serves as a news aggregator with built-in feedback capabilities. Built with speed, aesthetics, and clean code principles in mind.
 
+![Project Preview](public/preview.png)
+
 ---
 
 ## 🚀 Quick Start
